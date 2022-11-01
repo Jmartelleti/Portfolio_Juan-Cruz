@@ -1,1 +1,1 @@
-web:gunicorn PORTFOLIO_JUAN CRUZ.wsgi
+web:django_portfolio.wsgi
