@@ -2,4 +2,4 @@
 
 this is a basic portfolio in dark mode
 
-you can visit wwww.juanmartelleti.com
+you can visit juanmartelleti.com
